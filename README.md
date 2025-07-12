@@ -1,5 +1,13 @@
 # Star-Repetition
 
+**write a program that reads a word and prints stars (*) equal to the length of the word.**
+
+Input: qwerty
+
+Output: ******
+
+Explanation:
+
 Step 1: Get the input
 First, we need to get the input from the user, which is a word.
 Here, input() is a function that allows the user to enter a word, and word is a variable that stores the entered word.
